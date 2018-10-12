@@ -4,3 +4,5 @@ branch b
 branch master
 branch a
 test clone
+test push
+
